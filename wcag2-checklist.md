@@ -6,9 +6,21 @@ WebAIM's WCAG 2.0 Checklist
 <small>Adapted from and copyright © 1999-2014 [WebAIM (Web Accessibility in Mind)](http://webaim.org/). All rights reserved. May be reproduced and distributed in print or electronic format only if offered at no cost to recipients and as long as full credit is given to WebAIM.</small>
 
 1. Perceivable
+    * Text Alternatives
+    * Time-based Media
+    * Adaptable
+    * Distinguishable
 * Operable
+    * Keyboard Accessible
+    * Enough Time
+    * Seizures
+    * Navigable
 * Understandable
-* Robuts
+    * Readable
+    * Predictable
+    * Input Assistance
+* Robust
+    * Compatible
 
 ## 1. Perceivable
 
