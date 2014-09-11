@@ -1,21 +1,21 @@
 ## Common
 
-role=“banner”
+role="banner"  
 : masthead of the site
 
-role=“navigation”
+role="navigation"  
 : for each of the navigation lists at the top and bottom of the page
 
-role=“search”
+role="search"  
 : search form
 
-role=“main”
+role="main"  
 : main content of the page
 
-role=“complementary”
+role="complementary"  
 : related information in the sidebar
 
-role=“contentinfo”
+role="contentinfo"  
 : copyright statement at the bottom
 
 ---
