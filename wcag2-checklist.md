@@ -1,9 +1,7 @@
 WebAIM's WCAG 2.0 Checklist
 ===========================
-<http://webaim.org/standards/wcag/checklist>
+<http://webaim.org/standards/wcag/checklist>  
 <http://www.w3.org/TR/WCAG20/>
-
-<small>Adapted from and copyright © 1999-2014 [WebAIM (Web Accessibility in Mind)](http://webaim.org/). All rights reserved. May be reproduced and distributed in print or electronic format only if offered at no cost to recipients and as long as full credit is given to WebAIM.</small>
 
 1. Perceivable
     * Text Alternatives
@@ -208,6 +206,5 @@ Content can be used reliably by a wide variety of user agents, including assisti
 
 ## Notes
 
-
-Uses GitHub style Tasks Lists:
-<https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments>
+* <small>Adapted from and copyright © 1999-2014 [WebAIM (Web Accessibility in Mind)](http://webaim.org/). All rights reserved. May be reproduced and distributed in print or electronic format only if offered at no cost to recipients and as long as full credit is given to WebAIM.</small>
+* Uses [GitHub style Tasks Lists](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
