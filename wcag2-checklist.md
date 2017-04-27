@@ -1,5 +1,5 @@
-WebAIM's WCAG 2.0 Checklist
-===========================
+WCAG 2.0 Checklist
+==================
 <http://webaim.org/standards/wcag/checklist>  
 <http://www.w3.org/TR/WCAG20/>
 
