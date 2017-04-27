@@ -4,7 +4,7 @@ A simple and portable [Web Content Accessibility Guidelines 2](https://www.w3.or
 
 To use the checklist in a project hosted on GitHub, add it as an issue: 
 
-1. [create a new issue](https://help.github.com/articles/creating-an-issue/)
+1. [Create a new issue](https://help.github.com/articles/creating-an-issue/)
 2. Give it the title `WCAG2 Checklist`
 3. [Copy and paste the contents of the file](https://raw.githubusercontent.com/growdigital/checklist-wcag2/master/wcag2-checklist.md) into the comment box.
 
