@@ -1,4 +1,4 @@
-# WCAG2 Checklist adapted from WebAIM
+# WCAG2 Checklist
 
 A simple and portable [Web Content Accessibility Guidelines 2](https://www.w3.org/TR/WCAG20/) checklist. 
 
