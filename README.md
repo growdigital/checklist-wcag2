@@ -1,6 +1,8 @@
 # WCAG2 Checklist adapted from WebAIM
 
-A simple and portable [Web Content Accessibility Guidelines 2](https://www.w3.org/TR/WCAG20/) checklist. To use in different projects: 
+A simple and portable [Web Content Accessibility Guidelines 2](https://www.w3.org/TR/WCAG20/) checklist. 
+
+To use the checklist in a project hosted on GitHub, add it as an issue: 
 
 1. [create a new issue](https://help.github.com/articles/creating-an-issue/)
 2. Give it the title `WCAG2 Checklist`
